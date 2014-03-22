@@ -464,3 +464,5 @@ django/template/defaultfilters.pyc
 django/template/defaulttags.pyc
 
 django/template/loader.pyc
+
+db.sqlite3
